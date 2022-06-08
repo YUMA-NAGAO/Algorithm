@@ -23,6 +23,6 @@ In parallel, I will study Solana and Rust.
 
 ## References
 
-1. (アルゴリズム実技検定 公式テキスト[エントリー~中級編])[https://amzn.to/3H3xwjb]
-2. (プログラマ脳を鍛える数学パズル シンプルで高速なコードが書けるようになる70問)[https://amzn.to/3xxjMtC]
-3. (もっとプログラマ脳を鍛える数学パズル アルゴリズムが脳にしみ込む70問 )[https://amzn.to/3xyCSQa]
+1. [アルゴリズム実技検定 公式テキスト[エントリー~中級編](https://amzn.to/3H3xwjb)
+2. [プログラマ脳を鍛える数学パズル シンプルで高速なコードが書けるようになる70問](https://amzn.to/3xxjMtC)
+3. [もっとプログラマ脳を鍛える数学パズル アルゴリズムが脳にしみ込む70問 ](https://amzn.to/3xyCSQa)
