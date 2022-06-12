@@ -62,11 +62,13 @@ if M[0][2] and M[1][1] and M[2][0]:
 
 if bingo==True:
     #ここは、bingoだけで良い
-    print("Yes")
+    print("Yes") 
 else:
     print("No")
     
                 
 
-    
+#実際の問題
+# https://atcoder.jp/contests/abc157/tasks/abc157_b
+
     
